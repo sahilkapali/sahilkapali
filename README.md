@@ -1,5 +1,5 @@
 # 💫 About Me:
-“Hi, I’m Sahil Kapali, a first year student studying Computer Engineering at Tribhuwan University.”<br>I’m passionate about coding, and I love exploring new technologies and solving interesting problems through code.
+“Hi, I’m Sahil Kapali, a student studying Computer Engineering at Tribhuwan University.”<br>I’m passionate about coding, and I love exploring new technologies and solving interesting problems through code.
 
 
 ## 🌐 Socials:
